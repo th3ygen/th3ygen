@@ -30,7 +30,7 @@ Let's keep it simple, creative, and enjoyable. Welcome to my digital world! ✨<
 <a href="https://www.instagram.com/aidil.syaz_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" alt="" height="40" width="40" /></a>
 </p>
 <hr />
-<h3>Extra</h3>
+<h3>Extras</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
