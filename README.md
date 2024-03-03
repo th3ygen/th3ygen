@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=39&duration=1000&pause=1500&repeat=false&random=false&width=735&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Aidil%2C+a+full-stack+dev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+work+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=39&duration=1000&pause=1500&random=false&width=735&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Aidil%2C+a+full-stack+dev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+work+together!)](https://git.io/typing-svg)
 
 <p>A web developer excited about making cool stuff online. I use React 💻⚛️ to turn ideas into websites that look good and work even better.
 
