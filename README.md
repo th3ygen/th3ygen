@@ -6,7 +6,7 @@ I love turning designs into real, interactive web pages. My goal is to create we
 
 Let's keep it simple, creative, and enjoyable. Welcome to my digital world! ✨</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&random=true&width=450&lines=Next.js+and+React%3A+Crafting+web+magic.;React+Native%2C+Flutter%3A+Mobile+marvels.;PostgreSQL%2C+Python%3A+Data-driven+brilliance.;WebSockets%2C+MQTT%3A+Real-time+wonders.;Figma%2C+Adobe+XD%3A+Design+to+dazzle.;Node.js%2C+TypeScript%3A+Coding+synergy.;Code+with+passion%2C+purpose%2C+precision.;PostgreSQL%3A+Data+integrity%2C+performance.;Flutter%2C+React+Native%3A+Cross-platform+finesse.;Node.js%2C+MQTT%3A+Real-time+connections.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Aidil%2C+a+full-stack+dev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <h3>Discover my coding journey and accomplishments below. 🌟 Explore my skills and contributions!</h3>
 
