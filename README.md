@@ -7,7 +7,6 @@ I love turning designs into real, interactive web pages. My goal is to create we
 
 Let's keep it simple, creative, and enjoyable. Welcome to my digital world! ✨</p>
 
-<h3>Discover my coding journey and accomplishments below. 🌟 Explore my skills and contributions!</h3>
 
 <h3>Github Streak</h3>
 
