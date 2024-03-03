@@ -1,4 +1,5 @@
-<h1>Hey there! 👋 Aidil Syazwan here 💻⚛️</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=39&duration=1000&pause=1500&repeat=false&random=false&width=735&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Aidil%2C+a+full-stack+dev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+work+together!)](https://git.io/typing-svg)
 
 <p>A web developer excited about making cool stuff online. I use React 💻⚛️ to turn ideas into websites that look good and work even better.
 
@@ -6,7 +7,6 @@ I love turning designs into real, interactive web pages. My goal is to create we
 
 Let's keep it simple, creative, and enjoyable. Welcome to my digital world! ✨</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=39&duration=1000&pause=1500&repeat=false&random=false&width=735&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Aidil%2C+a+full-stack+dev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+work+together!)](https://git.io/typing-svg)
 <h3>Discover my coding journey and accomplishments below. 🌟 Explore my skills and contributions!</h3>
 
 <h3>Github Streak</h3>
